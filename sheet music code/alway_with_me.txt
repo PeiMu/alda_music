@@ -1,0 +1,36 @@
+piano: 
+V1: 
+| r4 c4 e4 | r4 c4 e4 | r4 c4 e4 | r4 c4 c8 d8 | e8 c8 g4. e8  
+| d4 g4 d4 | c8 < a8 > e4. c8 | < b2 > c8 < b8 | a4 b4 > c8 d8 | < g4 > c4 d8 e8  
+| f4 f8 e8 d8 c8 | d2 c8 d8 | e8 c8 g4. e8 | d4 g4 d4 | c8 < a8 a4 b8 > c8  
+| < g2 g4 | a4 b4 > c8 d8 | < g4 > c4 d8 e8 | f4 f8 e8 d8 c8 | c4 c4 e4  
+| r4 c4 e8 c8 | g4 g4 g4 | g4 g8 a8 g8 f8 | e4 e4 e4 | e4 e8 f8 e8 d8  
+| c4 c4 c8 < b8 | a4 b4 > c4 | d4 d8 e8 d4 d8 | d2 e8 f8 | g4 g4 g4  
+| g4 g8 a8 g8 f8 | e4 e4 e4 | e8 f8 e8 d8 c8 < b8 | a4 b4 > c8 d8 | < g4 > c4 d8 e8  
+| d4. d8 d8 c8 | c2 e4 | r4 c4 e4 | r4 c4 e4 | r4 r4 > c8 d8  
+| e8 c8 g4. e8 | d4 g4 d4 | c8 < a8 > e4. c8 | < b2 > c8 < b8 | a4 b4 > c8 d8  
+| < g4 > c4 d8 e8 | f4 f8 e8 d8 c8 | d2 c8 d8 | e8 c8 g4. e8 | d4 g4 d4  
+| c8 < a8 a4 b8 > c8 | < g2 g4 | a4 b4 > c8 d8 | < g4 > c4 d8 e8 | f4 f8 e8 d8 c8  
+| c2 e8 f8 | g4 g4/d4 g4/c4 | g4/<b4> g8 a8 g8 f8 | e4 e4/<b4> e4/<a4> | e4/<g4> e8 f8 e8 d8  
+| c4 c4 c8 < b8 | a4 b4 > c4 | d4 d8 e8 d8 e8 | d2 e8 f8 | g4 g4/d4 g4/c4 
+| g4/<b4> g8 a8 g8 f8 | e4 e4/<b4> e4/<a4> | e8/<g8> f8 e8 d8 c8 < b8 | a4 b4 > c8 d8 | < g4 > c4. < b8  
+| a4 b4 > c8 d8 | < g2 > c8 < b8 | a4 b4 > c8 d8 | < g4 > c4 d8 e8 | d4. d8 d8 c8  
+| c2 < e4 | r4 c4 e4 | r4 c4 e4 | r4 c4 e4 | >c2./<e2. |
+
+V2: 
+| < c4 g4 r4 | c4 g4 r4 | c4 g4 r4 | c4 g4 r4 | c4 g4 r4  
+| < b4 > g4 r4 | < a4 > e4 r4 | < g4 > e4 r4 | < f4 > c4 r4 | < e4 > c4 r4
+| < d4 r4 > d4 | < g4 > d4 r4 | c4 g4 r4 | < g4 > d4 r4 | < a4 > e4 r4
+| < e4 b4 r4 | f4 > c4 r4 | < e4 > c4 r4 | < d4 r4 g4 | > c4 g4 r4
+| c4 g4 r4 | c4 g4 r4 | < g4 > d4 r4 | < a4 > e4 r4 | < e4 b4 r4
+| a2 g4 | f2 e4 | d4 a4 r4 | g4 > d4 r4 | c4 g4 r4
+| < g4 > d4 r4 | < a4 > e4 r4 | < e4 b4 r4 | f4 > c4 r4 | < e4 > c4 r4
+| < d4 r4 g4 | > c4 g4 r4 | c4 g4 r4 | c4 g4 r4 | c4 g4 r4
+| c4 g4 r4 | < b4 > g4 r4 | < a4 > e4 r4 | < g4 > e4 r4 | < f4 > c4 r4
+| < e4 > c4 r4 | < d4 r4 > d4 | < g4 > d4 r4 | c4 g4 r4 | < g4 > d4 r4
+| < a4 > e4 r4 | < e4 b4 r4 | f4 > c4 r4 | < e4 > c4 r4 | < d4 r4 g4
+| > c4 g4 r4 | c4 g4 r4 | < g4 > d4 r4 | < a4 > e4 r4 | < e4 b4 r4  
+| a2 g4 | f2 e4 | d4 a4 r4 | g4 > d4 r4 | c4 g4 r4
+| < g4 > d4 r4 | < a4 > e4 r4 | < e4 b4 r4 | f4 > c4 r4 | < e4 > c4 r4
+| < f4 > c4 r4 | < e4 > c4 r4 | < f4 > c4 r4 | < e4 > c4 r4 | < d4 r4 g4
+| > c4 g4 r4 | c4 g4 r4 | c4 g4 r4 | c4 g4 r4 | c2. |
